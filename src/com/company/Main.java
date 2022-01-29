@@ -10,7 +10,7 @@ public class Main {
         SUN Solana=new SUN();
         Solana.Heat="6464363478";
         Solana.radius="574574324";
-        Solana.temp=123456c;
+        Solana.temp="123456";
 
     }
 }
